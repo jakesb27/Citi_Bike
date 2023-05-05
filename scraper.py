@@ -28,7 +28,7 @@ def download_zip(zip_name):
 for i in range(len(files) - 1):
     try:
         name = int(files[i].get_text()[:6])
-        if name > 202212:
+        if 202304 < name > 202212:
             download_zip(files[i].get_text())
     except ValueError:
         pass
