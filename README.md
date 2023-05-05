@@ -10,7 +10,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 <br />
 
 <a href="https://public.tableau.com/views/CitiBike_16829889508790/CitiBikeInReview-QTR1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">CitiBike | Tableau Public Dashboard</a>
-
 <br />
 
 ## License
